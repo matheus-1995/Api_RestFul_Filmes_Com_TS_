@@ -1,0 +1,14 @@
+2024-01-25 16:22:03:223 - [31merror[39m: [31mNão foi possivel conectar[39m
+2024-01-25 16:22:03:223 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.6jpdhlq.mongodd.net[39m
+2024-01-25 16:24:45:2445 - [31merror[39m: [31mNão foi possivel conectar[39m
+2024-01-27 23:26:12:2612 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value ":1" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:26:29:2629 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:34:34:3434 - [31merror[39m: [31mErro no sistema Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:38:27:3827 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:44:39:4439 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "_65b557103680c4a50a0bdbee" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:52:02:522 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:52:35:5235 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:53:10:5310 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-27 23:57:06:576 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-28 09:41:04:414 - [31merror[39m: [31mCast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
+2024-01-28 09:41:27:4127 - [31merror[39m: [31mCast to ObjectId failed for value "65b57ee820cf3d858c36062" (type string) at path "_id" for model "Movie"[39m
